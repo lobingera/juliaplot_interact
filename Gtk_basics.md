@@ -9,3 +9,6 @@ Examples:
 
 https://gist.github.com/lobingera/2e7a9e4f8579b82d9fe5
 An example by lobingera on selection and zoom/pan. The gist needs the branches new_canvas from both https://github.com/lobingera/Cairo.jl and https://github.com/lobingera/Gtk.jl.
+
+https://github.com/timholy/GtkUtilities.jl
+Build on Gtk and the GtkCanvas which includes hooks for interaction on mouse pointer, mouse buttons, modifiers (keys: shift, alt, ctrl etc.) and the scroll-wheel (button4).

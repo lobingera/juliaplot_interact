@@ -12,3 +12,6 @@ An example by lobingera on selection and zoom/pan. The gist works with recent ma
 
 https://github.com/timholy/GtkUtilities.jl
 Build on Gtk and the GtkCanvas which includes hooks for interaction on mouse pointer, mouse buttons, modifiers (keys: shift, alt, ctrl etc.) and the scroll-wheel (button4).
+
+https://github.com/JuliaGraphics/Immerse.jl
+Build on Gtk and the previous, a framework or interacting with plots created by Gadfly.
